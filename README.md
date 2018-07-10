@@ -1,1 +1,1 @@
-# ethereumSC
+# Ethereum Smart Contracts
